@@ -1,6 +1,7 @@
 # 1st Hackerton Kaggle Competition
 
 <br>
+
 ### [Communication Skill Up]
 >
 우리가 나아갈 it세계는 개인의 역량도 중요하지만 주변의 팀원과 협력할 수 있는 역량 또한 굉장히 중요합니다. 
