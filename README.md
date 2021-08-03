@@ -7,7 +7,6 @@
 | 조원 | Github |
 |:-----:|:-----:|
 
-
 <br>
 
 ### [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
