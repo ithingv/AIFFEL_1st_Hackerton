@@ -2,27 +2,18 @@
 
 
 
----
+<br>
+
 | 조원 | Github |
 |:-----:|:-----:|
-| 
 
----
+
+<br>
 
 ### [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 
 
----
-
-
-
-
-
-
-
-
-
-----
+<br>
 
 **[캐글 개요]**
 
