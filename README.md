@@ -6,7 +6,7 @@
 
 | 조원 | Github |
 |:-----:|:-----:|
-
+|이상훈|[Link](https://github.com/ithingv)|
 
 <br>
 
