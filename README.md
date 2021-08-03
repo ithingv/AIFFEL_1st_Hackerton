@@ -6,6 +6,7 @@
 
 | 조원 | Github |
 |:-----:|:-----:|
+| 정 민 지 |[link](https://github.com/minji2744)|
 
 
 <br>
