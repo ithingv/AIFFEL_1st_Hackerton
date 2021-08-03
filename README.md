@@ -6,7 +6,10 @@
 
 | 조원 | Github |
 |:-----:|:-----:|
-
+|신웅철|[Link](https://github.com/woongcheol)|
+|이상훈|[Link](https://github.com/ithingv)|
+|정민지 |[link](https://github.com/minji2744)|
+| 임호준|[Link](https://github.com/limhjsky87)|
 <br>
 
 ### [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
