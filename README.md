@@ -6,8 +6,9 @@
 
 | 조원 | Github |
 |:-----:|:-----:|
-| 정 민 지 |[link](https://github.com/minji2744)|
-
+|신웅철|[Link](https://github.com/woongcheol)|
+|이상훈|[Link](https://github.com/ithingv)|
+|정민지 |[link](https://github.com/minji2744)|
 
 <br>
 
