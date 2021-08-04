@@ -1,14 +1,31 @@
-# 1st Hackerton Kaggle Competiton
+# 1st Hackerton Kaggle Competition
 
+<br>
+
+### [Communication Skill Up]
+>
+우리가 나아갈 it세계는 개인의 역량도 중요하지만 주변의 팀원과 협력할 수 있는 역량 또한 굉장히 중요합니다. 
+
+
+코드를 잘짠다고 훌륭한 it엔지니어링일까요?  🚫
+
+
+아닙니다. 이론을 빠삭하게 아는사람, 설계를 잘하는사람, 코드를 잘 짜는 사람 it분야에서도 저마다 강점이 다 다릅니다 ⌨️
+
+
+지금까지 노드를 진행하면서 빡빡한 일정을 소화하셨다면 잠시만 내려놓아주세요. 🥌 
+
+지금은 팀원들과 즐겁게 협력하는 법을 배워봅시다.
 
 
 <br>
 
-| 조원 | Github |
+| Member | Github |
 |:-----:|:-----:|
-|신웅철|[Link](https://github.com/woongcheol)|
-|이상훈|[Link](https://github.com/ithingv)|
-|정민지 |[link](https://github.com/minji2744)|
+|신웅철|[🔗](https://github.com/woongcheol)|
+|이상훈|[🔗](https://github.com/ithingv)|
+|정민지|[🔗](https://github.com/minji2744)|
+|임호준|[🔗](https://github.com/limhjsky87)|
 
 <br>
 
